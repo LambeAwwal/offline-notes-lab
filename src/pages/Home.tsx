@@ -68,9 +68,9 @@ export default function Home() {
       </aside>
       <main>
         <p className="eyebrow">FOUNDATION TRACK</p>
-        <h1>Keep learning when the network leaves.</h1>
+        <h1>Lambe Awwal Adebayo</h1>
         <p className="lede">
-          Save a note, refresh the page, then test the same experience with the network turned off.
+          2024/1/95101CP
         </p>
         <section className="columns">
           <div>
